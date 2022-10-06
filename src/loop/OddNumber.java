@@ -27,7 +27,7 @@ public class OddNumber {
 	
 	}
 
-	System.out.print("maximum odd number " + max);
+	System.out.print("\n Maximum odd number " + max);
 
 	}
 }
